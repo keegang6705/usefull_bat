@@ -1,1 +1,1 @@
-DEL /Q "C:\Users\darun\AppData\Local\LINE\Data\advertisement"
+DEL /Q "C:\Users\{your username}\AppData\Local\LINE\Data\advertisement"
